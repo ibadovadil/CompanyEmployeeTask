@@ -1,0 +1,42 @@
+C:\Users\User\source\repos\Company_Project\obj\Debug\net6.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Company_Project\obj\Debug\net6.0\Company_Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Company_Project\obj\Debug\net6.0\Company_Project.AssemblyInfo.cs
+C:\Users\User\source\repos\Company_Project\obj\Debug\net6.0\Company_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Company_Project\bin\Debug\net6.0\Company_Project.exe
+C:\Users\User\source\repos\Company_Project\bin\Debug\net6.0\Company_Project.deps.json
+C:\Users\User\source\repos\Company_Project\bin\Debug\net6.0\Company_Project.runtimeconfig.json
+C:\Users\User\source\repos\Company_Project\bin\Debug\net6.0\Company_Project.dll
+C:\Users\User\source\repos\Company_Project\bin\Debug\net6.0\Company_Project.pdb
+C:\Users\User\source\repos\Company_Project\obj\Debug\net6.0\Company_Project.dll
+C:\Users\User\source\repos\Company_Project\obj\Debug\net6.0\refint\Company_Project.dll
+C:\Users\User\source\repos\Company_Project\obj\Debug\net6.0\Company_Project.pdb
+C:\Users\User\source\repos\Company_Project\obj\Debug\net6.0\Company_Project.genruntimeconfig.cache
+C:\Users\User\source\repos\Company_Project\obj\Debug\net6.0\ref\Company_Project.dll
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.exe
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.deps.json
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.dll
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.pdb
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.dll
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\obj\Debug\net6.0\refint\Company_Project.dll
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.pdb
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\Company_Project-main\obj\Debug\net6.0\ref\Company_Project.dll
+C:\Users\Adil\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.exe
+C:\Users\Adil\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.deps.json
+C:\Users\Adil\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.runtimeconfig.json
+C:\Users\Adil\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.dll
+C:\Users\Adil\Desktop\Company_Project-main\bin\Debug\net6.0\Company_Project.pdb
+C:\Users\Adil\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.AssemblyInfo.cs
+C:\Users\Adil\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.dll
+C:\Users\Adil\Desktop\Company_Project-main\obj\Debug\net6.0\refint\Company_Project.dll
+C:\Users\Adil\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.pdb
+C:\Users\Adil\Desktop\Company_Project-main\obj\Debug\net6.0\Company_Project.genruntimeconfig.cache
+C:\Users\Adil\Desktop\Company_Project-main\obj\Debug\net6.0\ref\Company_Project.dll
